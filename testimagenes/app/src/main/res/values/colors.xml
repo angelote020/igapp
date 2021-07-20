@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primario">#0d47a1</color>
+    <color name="primarioVariante">#1976d2</color>
+    <color name="secundario">#00838f</color>
+    <color name="secundarioVariante">#00acc1</color>
+    <color name="cajaTitulos">#252525</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blanco">#ffff</color>
+
+    <!-- fondos-->
+    <color name="fondo1">#01579b</color>
+    <color name="fondo2">#1a237e</color>
+    <color name="fondo3">#0d47a1</color>
+    <color name="fondo4">#311b92</color>
+</resources>
